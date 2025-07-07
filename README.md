@@ -6,3 +6,6 @@ Análise estatística completa do dataset de notas do ENEM no ano de 2018
 
 Caso não possua suas credenciais ainda, abaixo deixo um link da documentação do kaggle para conseguir a chave de API pública:
 https://www.kaggle.com/docs/api
+
+Link para o vídeo explicativo no youtube:
+https://youtu.be/rJkeyhsm0as
