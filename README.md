@@ -8,4 +8,4 @@ Caso não possua suas credenciais ainda, abaixo deixo um link da documentação 
 https://www.kaggle.com/docs/api
 
 Link para o vídeo explicativo no youtube:
-https://youtu.be/rJkeyhsm0as
+https://youtu.be/BOVVaCt-VgA
